@@ -51,4 +51,7 @@ platformio device monitor
 
 ## Demo
 
-C:\Users\Admin\Desktop\do_an_thiet_ke_he_thong_nhung\demo
+https://github.com/user-attachments/assets/7d96476d-f939-46e8-88c0-75df771ffcdd
+
+
+
