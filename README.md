@@ -22,7 +22,8 @@ Người làm chính: Lê Chí Hiếu - B23DCDT089
 
 Training performance 
 
-<img width="1089" height="1374" alt="image" src="https://github.com/user-attachments/assets/96050932-ee86-4c84-ad75-bcda98e54b66" />
+<img width="1089" height="1374" alt="Ảnh chụp màn hình 2026-03-29 080139" src="https://github.com/user-attachments/assets/a4fbaf18-733d-4e0b-a1e4-19f39d7a16a8" />
+
 
 ## 💻 Lập Trình
 
